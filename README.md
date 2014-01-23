@@ -1,6 +1,6 @@
 SketchBeat - Audio Visualizer Program
 ==================
-Made with C++ and OpenFrameworks on January 18th.
+Made with C++ and OpenFrameworks.
 
-<a href="http://www.youtube.com/watch?v=AIplDxpbyRY" target="_blank"><img src="https://raw2.github.com/Satimidus/SketchBeat/master/src/esfera.png" 
-alt="ESFERA" width="725" height="348" border="10" /></a>
+<img src="https://raw2.github.com/Satimidus/SketchBeat/master/src/esfera.png" 
+alt="ESFERA" width="725" height="348" border="10" />
